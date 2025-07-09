@@ -21,7 +21,7 @@ It supports **add, edit, delete, toggle complete**, loading/error handling.
 ### 1️⃣ Clone the project
 
 ```bash
-git clone https://github.com/yourusername/todo-react-ts.git
+git clone https://github.com/Applessr/Todo-list.git
 cd Todo-list
 ```
 
