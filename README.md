@@ -5,16 +5,16 @@ It supports **add, edit, delete, toggle complete**, loading/error handling.
 
 ## 🚀 Features
 
-✅ Fetch todo items from API  
+✅ Fetch todo items from API by using Axios  
 ✅ Add / Edit / Delete todo items  
 ✅ Toggle complete / incomplete  
 ✅ React Functional Components + TypeScript  
-✅ Zustand for clean state management  
+✅ Zustand for state management  
 ✅ Loading and error handling  
 ✅ Responsive design with Tailwind CSS  
 ✅ Dark/Light mode toggle  
+✅ Alert by using Sweetalert2
 ✅ Ready for testing with Jest 
-
 
 ## ⚙️ Getting Started
 
