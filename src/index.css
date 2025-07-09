@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+.swal2-confirm {
+    background-color: #355C7D !important;
+}
+.swal2-cancel {
+    background-color: #C06C84 !important;
+}
