@@ -22,7 +22,7 @@ It supports **add, edit, delete, toggle complete**, loading/error handling.
 
 ```bash
 git clone https://github.com/yourusername/todo-react-ts.git
-cd todo-react-ts
+cd Todo-list
 ```
 
 ### 2️⃣ Install dependencies
